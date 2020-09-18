@@ -1,2 +1,2 @@
 # AI_Assignments
-iNeuron Asshingments
+iNeuron Assingments
